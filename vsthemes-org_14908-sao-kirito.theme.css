@@ -1,0 +1,63 @@
+/**
+* @name S A O
+* @author ᴘᴜʀᴘʟᴇ ᴡɪᴢᴀʀᴅ#0984
+* @version 2.1
+* @invite SBuYeHh
+* @description An amazing RGB theme with full customization included, made by Purple Wizard.
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/GameActivityToggle_FIX.css");
+
+:root {
+--title: "SAO";
+--background: url("https://goldenlys.github.io/ThemeGen/img/GGO.jpg");
+--font: "Quicksand";
+--time: 0s;
+--Online: rgb(208, 199, 255);
+--Idle: rgb(170, 133, 0);
+--Unavailable: rgb(208, 9, 11);
+--Offline: rgb(90, 95, 100);
+--Playing: url("https://cdn.discordapp.com/attachments/476154188494143498/702177203940753519/playing.jpg");
+--Xbox: url("https://cdn.discordapp.com/attachments/476154188494143498/702177220151476254/xbox.jpg");
+--Spotify: url("https://cdn.discordapp.com/attachments/476154188494143498/702177232881319976/spotify.jpg");
+--Streaming: url("https://cdn.discordapp.com/attachments/476154188494143498/702177120050348213/twitch.jpg");
+--grey: rgb(104, 125, 154);
+--darkgrey: rgb(36, 34, 47);
+--ChatBox: transparent;
+--Sidebar: transparent;
+--SendMessage: var(--darkgrey);
+--logo: url("https://cdn.discordapp.com/attachments/476154188494143498/702176835534061628/discord.png");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Hey! Wanna have some fun.. Join US !";
+--AddNewServer: "➕ Add a new server";
+--Close: "🔴";
+--Resize: "➕";
+--Hide: "➖";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "purpies";
+--WelcomeMessage: "Theme base designed by Purple Wizard.";
+--Watermark: "Made with 💖 by Purple Wizard for Shu";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: transparent;
+--ServerSize: 45px;
+--animation: rgb(208, 9, 11), rgb(208, 9, 11);
+--Primary: rgb(208, 9, 11);
+--grey5: rgba(104, 125, 154, .5);
+--darkgrey5: rgba(36, 34, 47, .75);
+} /* Made with Purple Wizard theme generator v0.92, have fun ! */
